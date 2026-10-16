@@ -1,0 +1,5 @@
+﻿Verificacion,Resultado,Lectura
+Error maximo de linealidad,5.750e-14,Casi cero: FFT(a x + b y) = a FFT(x) + b FFT(y).
+Error de desplazamiento circular,7.343e-14,Casi cero: el corrimiento añade fase lineal sin cambiar la magnitud.
+Primer nulo pulso 0.20 s (Hz),5.00,"Ancho temporal mayor, espectro más concentrado."
+Primer nulo pulso 0.10 s (Hz),10.00,"Al comprimir el pulso, el primer nulo se desplaza hacia frecuencia mayor."
